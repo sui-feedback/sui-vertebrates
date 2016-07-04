@@ -1,0 +1,92 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 2027
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 10
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 19
+	Date: 2016-06-20 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "Coluber New York" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 6
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34; institutioncode:SUI" ; Times: 1
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 16
+	Query: "genus:bison" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Mammalia institutioncode:SUI" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "alces alces   " ; Times: 6
+	Query: "egg iowa 1891" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Coluber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "institutioncode:SUI" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1052 download events in this period)
+Total number of records downloaded: 4293
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
