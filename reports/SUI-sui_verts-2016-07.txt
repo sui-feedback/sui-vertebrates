@@ -1,0 +1,186 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 460
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 48
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-25 ; Times: 6
+	Date: 2016-07-26 ; Times: 3
+	Date: 2016-07-27 ; Times: 15
+	Date: 2016-07-15 ; Times: 4
+	Date: 2016-07-07 ; Times: 3
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-19 ; Times: 3
+	Date: 2016-07-18 ; Times: 14
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-28 ; Times: 7
+	Date: 2016-07-29 ; Times: 6
+	Date: 2016-07-13 ; Times: 6
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-20 ; Times: 3
+	Date: 2016-07-21 ; Times: 6
+	Date: 2016-07-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 1
+	Query: "arctic fox" ; Times: 1
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "Puma yagouaroundi yagouaroundi" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "White-tailed Jackrabbit" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "Citellus columbianus" ; Times: 1
+	Query: "tufted puffin" ; Times: 4
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:SUI" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "dryocopus pileatus virginia" ; Times: 2
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 1
+	Query: "Pacific Loon" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "33274" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "institutioncode:SUI" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "family:hominidae (cranium)" ; Times: 6
+	Query: "Lampornis calolaemus" ; Times: 5
+	Query: "type:specimen specificepithet:citrina genus:wilsonia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 11
+	Query: "great auk" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 183 (out of 1219 download events in this period)
+Total number of records downloaded: 1838
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 47
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 12
+	Date: 2016-07-10 ; Times: 9
+	Date: 2016-07-13 ; Times: 12
+	Date: 2016-07-12 ; Times: 8
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 5
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-19 ; Times: 7
+	Date: 2016-07-18 ; Times: 9
+	Date: 2016-07-20 ; Times: 6
+	Date: 2016-07-07 ; Times: 10
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 5
+	Date: 2016-07-25 ; Times: 7
+	Date: 2016-07-26 ; Times: 12
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 19
+	Date: 2016-07-22 ; Times: 7
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 8
+	Date: 2016-07-28 ; Times: 16
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "Citellus columbianus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "type:specimen specificepithet:umbellus genus:bonasa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "type:specimen genus:Dendroica country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen specificepithet:immer genus:gavia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "cyanoramphus" ; Times: 3
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "NICARAGUA" ; Times: 2
+	Query: "eira barbara" ; Times: 1
+	Query: "type:specimen specificepithet:clangula genus:bucephala class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "type:specimen specificepithet:serrator genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "type:specimen specificepithet:cucullatus genus:lophodytes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "type:specimen specificepithet:merganser genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "specificepithet:immer genus:gavia stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "family:hominidae (cranium)" ; Times: 1
+	Query: "Onychomys torridus New Mexico" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+
+
+End of report.
