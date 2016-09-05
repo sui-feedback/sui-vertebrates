@@ -1,0 +1,185 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1145
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 9
+	Country: United States ; Times: 48
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-16 ; Times: 10
+	Date: 2016-08-17 ; Times: 4
+	Date: 2016-08-18 ; Times: 7
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 13
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-25 ; Times: 14
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "penguin study skin" ; Times: 1
+	Query: "white-tailed jackrabbit" ; Times: 4
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "class:Aves recordedby:Nutting institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "type:specimen family:canidae order:carnivora stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Kingfisher institutioncode:SUI" ; Times: 1
+	Query: "Bunting institutioncode:SUI" ; Times: 3
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "CA 11098" ; Times: 3
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "barbary sheep" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 5
+	Query: "dorcas gazelle" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 2
+	Query: "type:specimen family:canidae order:carnivora stateprovince:&#34;Wisconsin&#34; preparations:skin" ; Times: 1
+	Query: "african elephant" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "passenger pigeon" ; Times: 9
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "class:Aves institutioncode:SUI" ; Times: 1
+	Query: "genus:Aimophila class:Aves recordedby:Nutting institutioncode:SUI" ; Times: 2
+	Query: "atthis ellioti" ; Times: 1
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Sui melanerpes" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34; sex:female" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "Homo sapiens AND Island" ; Times: 1
+	Query: "Chroicocephalus novaehollandiae" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 2
+	Query: "Saxicola oenanthe" ; Times: 1
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 1
+	Query: "family:Emberizidae class:Aves recordedby:Nutting institutioncode:SUI" ; Times: 1
+	Query: "class:Mammalia institutioncode:SUI" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 924 download events in this period)
+Total number of records downloaded: 946
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 5
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-15 ; Times: 7
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 10
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "ovis new mexico type:specimen" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "myotis grisescens" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "dorcas gazelle" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "aimophila ruficauda" ; Times: 1
+
+
+End of report.
