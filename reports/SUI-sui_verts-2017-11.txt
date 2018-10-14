@@ -1,0 +1,89 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 528
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Canada ; Times: 18
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 19
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 4
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-25 ; Times: 4
+	Date: 2017-11-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "35377" ; Times: 1
+	Query: "Warbling Vireo sex:male" ; Times: 2
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "hawk owl minnesota" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 4
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "White-eyed Vireo sex:male" ; Times: 3
+	Query: "Blue-headed Vireo sex:male" ; Times: 1
+	Query: "Aechmophorus minnesota" ; Times: 2
+	Query: "Mergus merganser minnesota" ; Times: 1
+	Query: "genus:Myiarchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "Black-capped Vireo sex:male" ; Times: 1
+	Query: "specificepithet:pealii genus:erythrura class:aves" ; Times: 1
+	Query: "yellow-throated vireo sex:male" ; Times: 2
+	Query: "Red-eyed Vireo sex:male" ; Times: 6
+	Query: "Black-whiskered Vireo sex:male" ; Times: 2
+	Query: "red kite" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "Bucephala clangula minnesota" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1101 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Israel ; Times: 2
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 4
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 5
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
