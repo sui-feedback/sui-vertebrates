@@ -1,0 +1,354 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 1584
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 62
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 116
+	Country: Denmark ; Times: 101
+	Country: United Kingdom ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-30 ; Times: 7
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-15 ; Times: 67
+	Date: 2018-01-14 ; Times: 25
+	Date: 2018-01-17 ; Times: 7
+	Date: 2018-01-16 ; Times: 90
+	Date: 2018-01-24 ; Times: 22
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 7
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-22 ; Times: 10
+	Date: 2018-01-23 ; Times: 16
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bahama mockingbird" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Manacus candei" ; Times: 1
+	Query: "Ramphocelus sanguinolentus" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Ohio&#34; (song sparrow) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passenger pigeon skeleton" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Celeus castaneus" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Bowdleria punctata" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Campephilus principalis" ; Times: 7
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Campylopterus hemileucurus" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "calurus specificepithet:jamaicensis genus:Buteo stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "didelphis virginianus" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "abyssinian roller class:aves institutioncode:SUI" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "specificepithet:jamaicensis genus:Buteo institutioncode:SUI" ; Times: 2
+	Query: "Cardellina canadensis" ; Times: 1
+	Query: "Picoides borealis" ; Times: 2
+	Query: "Equus caballus ferus" ; Times: 2
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "sphenodon punctatus" ; Times: 2
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Caryothraustes poliogaster" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "&#34;Megalurus punctatus&#34;" ; Times: 3
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Bucephala albeola minnesota" ; Times: 1
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Bubo virginianus arcticus minnesota" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "Cyanocompsa cyanoides" ; Times: 1
+	Query: "Ramphocelus passerinii" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Morococcyx  erythropygus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "Cervus elaphus canadensis" ; Times: 4
+	Query: "Cantorchilus modestus" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Bucephala clangula minnesota" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "Euphonia gouldi" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:SUI:VERT:01334&#34;" ; Times: 4
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Eucometis penicillata" ; Times: 1
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Equus ferus caballus" ; Times: 5
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Thraupis abbas" ; Times: 1
+	Query: "grus americana minnesota" ; Times: 1
+	Query: "gazella dorcas" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 5
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Psilorhinus morio" ; Times: 1
+	Query: "Crex Crex" ; Times: 2
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Struthioniformes Rheiformes" ; Times: 1
+	Query: "class:mammalia institutioncode:SUI" ; Times: 1
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "Poecilotriccus  sylvia" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Sporophila corvina" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Aythya collaris minnesota" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Myiarchus nuttingi" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "Thryophilus pleurostictus" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "specificepithet:bicolor family:paridae stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Vulpes vulpes fulvus" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "cheetah" ; Times: 3
+	Query: "Cardellina rubrifrons" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Buteo stateprovince:&#34;IOWA&#34; institutioncode:SUI" ; Times: 1
+	Query: "Saltator atriceps" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Cygnus olor sex:female hassex:1" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "nannus" ; Times: 1
+	Query: "Cyanocorax yucatanicus" ; Times: 1
+	Query: "dilophus" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "california condor class:aves institutioncode:SUI" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Amblycercus holosericeus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1398 download events in this period)
+Total number of records downloaded: 914
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 7
+	Country: Italy ; Times: 15
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 5
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 22
+	Date: 2018-01-25 ; Times: 11
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "bahama mockingbird" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "bananaquit" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "pinyon jay" ; Times: 1
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Vulpes vulpes fulvus" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Calidris canutus rufa" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Bowdleria punctata" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
