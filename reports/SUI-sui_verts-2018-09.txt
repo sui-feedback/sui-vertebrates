@@ -1,0 +1,163 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 961
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 1
+	Country: Iceland ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-25 ; Times: 19
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 6
+	Date: 2018-09-22 ; Times: 9
+	Date: 2018-09-23 ; Times: 7
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipter" ; Times: 1
+	Query: "Neotoma Cinera" ; Times: 2
+	Query: "specificepithet:scherman genus:Arvicola" ; Times: 2
+	Query: "Nativitatis Christmas" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 16
+	Query: "hutia" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:simulans genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 6
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "kokako" ; Times: 2
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "specificepithet:olympus genus:Marmota" ; Times: 2
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 5
+	Query: "rifleman" ; Times: 1
+	Query: "genus:Eubalaena institutioncode:SUI" ; Times: 1
+	Query: "seal teeth" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "institutioncode:sui" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 5
+	Query: "galictis vittata" ; Times: 2
+	Query: "ara macao" ; Times: 8
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "sui glacialis" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "genus:Corvus institutioncode:SUI" ; Times: 1
+	Query: "order:primates institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:Sapiens genus:Homo institutioncode:SUI" ; Times: 1
+	Query: "human iowa" ; Times: 1
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "specificepithet:sapidus genus:Arvicola" ; Times: 3
+	Query: "vntype:specimen genus:cyanocitta stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 846 download events in this period)
+Total number of records downloaded: 908
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 7
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:primates institutioncode:SUI" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "dark kangaroo mouse" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+
+
+End of report.
