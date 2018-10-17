@@ -1,0 +1,240 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 635
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 21
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 10
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "papio anubis" ; Times: 1
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "eskimo curlew vntype:specimen" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "blue grouse (california)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "red partridge" ; Times: 1
+	Query: "Atlapetes gutturalis" ; Times: 1
+	Query: "canis lupis" ; Times: 2
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "ocelot" ; Times: 2
+	Query: "spotted hyena" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "ammospiza lecontii" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 1
+	Query: "Ammodramus lecontii" ; Times: 2
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "northern hawk owl" ; Times: 3
+	Query: "eskimo curlew" ; Times: 1
+	Query: "Ampelis cedrorum" ; Times: 2
+	Query: "rattle snake" ; Times: 1
+	Query: "worthen 1884" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "blue grouse" ; Times: 2
+	Query: "olive baboon vntype:specimen" ; Times: 1
+	Query: "kakapo" ; Times: 1
+	Query: "Bond institutioncode:SUI" ; Times: 4
+	Query: "lecontii" ; Times: 1
+	Query: "sterna maximus" ; Times: 3
+	Query: "gracula ptilogenys" ; Times: 1
+	Query: "olive baboon" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "Canis lupis" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "numenius borealis" ; Times: 19
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;kansas&#34; (prairie)" ; Times: 1
+	Query: "class:Aves (33324)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 1169 download events in this period)
+Total number of records downloaded: 1812
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 106
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 24
+	Date: 2018-06-06 ; Times: 13
+	Date: 2018-06-05 ; Times: 18
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 24
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caretta caretta" ; Times: 1
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "Marmosa murina" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Bond institutioncode:SUI" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "sterna maximus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "Canis lupis" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+	Query: "papio anubis" ; Times: 2
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "horned puffin" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Ampelis cedrorum" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "sloth" ; Times: 4
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "canis lupis" ; Times: 3
+	Query: "blue jay" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "bald eagle" ; Times: 5
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "alces alces" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "koala" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "flying squirrel" ; Times: 3
+	Query: "ursus americanus" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+
+
+End of report.
