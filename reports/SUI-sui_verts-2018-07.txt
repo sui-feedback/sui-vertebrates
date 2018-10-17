@@ -1,0 +1,187 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 1248
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 84
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Papua New Guinea ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 22
+	Country: China ; Times: 4
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-02 ; Times: 6
+	Date: 2018-07-03 ; Times: 6
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-29 ; Times: 7
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 13
+	Date: 2018-07-27 ; Times: 9
+	Date: 2018-07-24 ; Times: 25
+	Date: 2018-07-25 ; Times: 10
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-10 ; Times: 7
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Ortalis guttata" ; Times: 2
+	Query: "specificepithet:tricinctus genus:tolypeutes" ; Times: 4
+	Query: "aves arctic coast" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:SUI" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; institutioncode:SUI" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "black footed ferret" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "recordedby:paul bartsch" ; Times: 7
+	Query: "class:aves locality:juneau stateprovince:&#34;alaska&#34; year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "30037] aves" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "35473 aves" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Ailuropoda preparations:skull" ; Times: 5
+	Query: "Cairina moschata" ; Times: 2
+	Query: "30037 aves" ; Times: 1
+	Query: "Australia specificepithet:sordidus class:Aves" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 2
+	Query: "hutchinsi" ; Times: 1
+	Query: "16129 aves" ; Times: 1
+	Query: "county:&#34;Johnson&#34; heterodon" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "34370 aves" ; Times: 1
+	Query: "Australia sordidus class:Aves" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "33717 aves" ; Times: 1
+	Query: "Patagioenas albilinea" ; Times: 2
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis institutioncode:SUI" ; Times: 1
+	Query: "12513 aves" ; Times: 2
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "Tree kangaroo" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "Marshall Co Iowa" ; Times: 1
+	Query: "Ivory-billed Woodpecker" ; Times: 1
+	Query: "tolypeutes tricinctus" ; Times: 4
+	Query: "gyrfalcon" ; Times: 2
+	Query: "loxigilla barbadensis" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "semipalmata florida" ; Times: 1
+	Query: "specificepithet:magnolia class:aves year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "Ailuropoda" ; Times: 10
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Chamaepetes goudotii" ; Times: 2
+	Query: "Iowa Marshall county" ; Times: 5
+	Query: "Tinamus major" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 4
+	Query: "Colibri delphinae" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Symphemia semipalmata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 977 download events in this period)
+Total number of records downloaded: 1088
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caloenas" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "recordedby:paul bartsch" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:SUI" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "class:Aves country:&#34;Ethiopia&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
