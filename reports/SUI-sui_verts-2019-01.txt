@@ -1,0 +1,272 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 792
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 158
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 18
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 15
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 9
+	Date: 2019-01-15 ; Times: 25
+	Date: 2019-01-16 ; Times: 8
+	Date: 2019-01-17 ; Times: 9
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 12
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-13 ; Times: 6
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 8
+	Date: 2019-01-29 ; Times: 32
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 8
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 10
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 5
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "tree shrew" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Reptilia Iowa linn" ; Times: 2
+	Query: "&#34;Myotis sodalis&#34; iowa" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Eptesicus fuscus Iowa Bremer" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "16264" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Lasiurus cinereus Iowa black hawk" ; Times: 1
+	Query: "07328" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Lasiurus borealis Iowa lee" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Gymnogyps" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus country:&#34;Mexico&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Lasionycteris Iowa webster" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "catalognumber:32777 institutioncode:SUI" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "papio hamadryas" ; Times: 3
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "eptesicus iowa" ; Times: 1
+	Query: "Quiscalus ater" ; Times: 1
+	Query: "Eptesicus fuscus Iowa Hawk" ; Times: 1
+	Query: "tragopan blythii" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; iowa" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Iowa&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 3
+	Query: "stateprovince:&#34;Ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 1
+	Query: "brown-capped rosy-finch" ; Times: 2
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Hylobates moloch" ; Times: 1
+	Query: "little egret" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 1
+	Query: "canis lupis" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Pipistrellus iowa scott" ; Times: 1
+	Query: "rina" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Asian elephant" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "oryx leucoryx" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Patagioenas albilinea" ; Times: 1
+	Query: "genus:Prosthemadera month &lt;= 1910 enddayofyear &lt;= 1880" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Missouri&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 3
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;iowa&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:pardalis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Crotalus institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ibycter americanus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Iowa&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Eubucco versicolor" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 2
+	Query: "specificepithet:Musculus genus:Mus stateprovince:&#34;Iowa&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; iowa" ; Times: 1
+	Query: "brown-capped rosy finch" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 9
+	Query: "Arctic fox" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:SUI" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 962 download events in this period)
+Total number of records downloaded: 757
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 55
+	Country: Spain ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-30 ; Times: 5
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 5
+	Date: 2019-01-29 ; Times: 15
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "specificepithet:pardalis genus:leopardus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Mimon" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "specificepithet:rubica rubicoides genus:Habia" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 3
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "hawaiian monk seal" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:schauinslandi genus:monachus" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "specificepithet: fuscicauda salvini genus:Habia" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+
+
+End of report.
