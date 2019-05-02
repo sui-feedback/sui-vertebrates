@@ -1,0 +1,234 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 264
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 35
+	Country: Slovenia ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 6
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Switzerland ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 9
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-05 ; Times: 10
+	Date: 2019-04-06 ; Times: 7
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 5
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "genus:Spilogale institutioncode:SUI" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "SUI 34795 Didelphis" ; Times: 1
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "black brant" ; Times: 1
+	Query: "SUI 33875" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:nigricans genus:Branta class:Aves" ; Times: 1
+	Query: "specificepithet:blythii genus:Tragopan" ; Times: 1
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "genus:Spermophilus Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "genus:Mephitis institutioncode:SUI" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "specificepithet:hispidus genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 4
+	Query: "SUI 34795" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dovekie" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "family:paradiseidae" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "bahama oriole" ; Times: 1
+	Query: "soft shell turtle" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "flathead catfish" ; Times: 1
+	Query: "specificepithet:minor genus:Eudyptula preparations:Skeleton" ; Times: 1
+	Query: "manta ray" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "Conurus" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "ORYX LEUCORYX" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dicotyles" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "tadarida brasiliensis mexicanus" ; Times: 2
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "class:Aves catalognumber:35210 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "jack snipe" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1263 download events in this period)
+Total number of records downloaded: 649
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 13
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 2
+	Country: Belize ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 14
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-14 ; Times: 5
+	Date: 2019-04-22 ; Times: 10
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Nebraska" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:blythii genus:Tragopan" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Missouri" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Idaho" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1880 year &lt;= 1950" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "primates costa rica" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:plicatus genus:rhyticeros" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Iowa" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "(cyanocorax) hastissue:1" ; Times: 2
+	Query: "american mink" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:South Dakota" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
