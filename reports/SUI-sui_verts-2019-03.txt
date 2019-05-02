@@ -1,0 +1,207 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 763
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 94
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 3
+	Date: 2019-03-28 ; Times: 6
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-25 ; Times: 27
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-21 ; Times: 9
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-06 ; Times: 24
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-19 ; Times: 6
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 10
+	Date: 2019-03-12 ; Times: 12
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:urocyon stateprovince:&#34;iowa&#34; year &gt;= 1975" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanotus genus:porphyrio" ; Times: 1
+	Query: "aves callaeas" ; Times: 1
+	Query: "oryx leucoryx" ; Times: 3
+	Query: "hutia" ; Times: 1
+	Query: "manta birostris" ; Times: 1
+	Query: "ocelot" ; Times: 3
+	Query: "vntype:specimen specificepithet:pelagica genus:Chaetura preparations:nest basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 5
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "spider monkey" ; Times: 1
+	Query: "genus:leopardus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Nebraska" ; Times: 4
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 4
+	Query: "stateprovince:&#34;nebraska&#34; catalognumber:16130 institutioncode:SUI" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Lichmera flavicans" ; Times: 7
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 4
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oklahoma" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Connecticut" ; Times: 4
+	Query: "county:&#34;Merida&#34; stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "howler monkey costa rica" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "grey jay" ; Times: 2
+	Query: "locality:cenote stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "stateprovince:&#34;nebraska&#34; catalognumber:16131 institutioncode:SUI" ; Times: 1
+	Query: "ocelot texas" ; Times: 2
+	Query: "Panthera onca" ; Times: 8
+	Query: "strigops" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Iowa" ; Times: 4
+	Query: "class:Mammalia county:&#34;Childress&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "neovison vison" ; Times: 4
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "muscovy duck" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "sawfish" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 26
+	Query: "Pteropus melanotus" ; Times: 6
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "Megalurus punctatus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:bubo stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 2
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "locality:coon island" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;wisconsin&#34; year &gt;= 1975 massing &gt;= 0 hasmass:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "ammodramus savanarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1281 download events in this period)
+Total number of records downloaded: 360
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: United Kingdom ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-28 ; Times: 4
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-21 ; Times: 6
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-22 ; Times: 7
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "panda" ; Times: 2
+	Query: "genus:urocyon stateprovince:&#34;iowa&#34; year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Lichmera flavicans" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "promops" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Childress&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Melonycteris melanops" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "locality:cenote stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "neotamias minimus" ; Times: 1
+	Query: "vntype:specimen genus:bubo stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Phainopepla" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+
+
+End of report.
