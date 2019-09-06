@@ -1,0 +1,347 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 437
+Number of records retrieved in searches: 1565
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 234
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 52
+	Country: Denmark ; Times: 13
+	Country: Thailand ; Times: 68
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 9
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 5
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 42
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-07 ; Times: 16
+	Date: 2019-08-08 ; Times: 18
+	Date: 2019-08-09 ; Times: 18
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 27
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 30
+	Date: 2019-08-21 ; Times: 66
+	Date: 2019-08-16 ; Times: 14
+	Date: 2019-08-15 ; Times: 54
+	Date: 2019-08-14 ; Times: 52
+	Date: 2019-08-13 ; Times: 11
+	Date: 2019-08-12 ; Times: 10
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-31 ; Times: 8
+	Date: 2019-08-30 ; Times: 6
+	Date: 2019-08-19 ; Times: 21
+	Date: 2019-08-18 ; Times: 2
+	Date: 2019-08-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "douglas squirrel" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 2
+	Query: "AMNH 13 haematodus" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Myotis septentrionalis haslength:1" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Calidris canutus" ; Times: 4
+	Query: "Raphus cucullatus" ; Times: 7
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Porphyrio martinica" ; Times: 3
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 4
+	Query: "Eptesicus furinalis haslength:1" ; Times: 2
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "Peropteryx macrotis haslength:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Felis silvestris catus" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 3
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "Trichoglossus haematodus massena" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "white-faced storm petrel" ; Times: 1
+	Query: "Pteronotus davyi haslength:1" ; Times: 2
+	Query: "Patagioenas leucocephala" ; Times: 2
+	Query: "Panthera onca" ; Times: 10
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Molossus rufus haslength:1" ; Times: 2
+	Query: "Marmosa murina" ; Times: 1
+	Query: "galictis vittata" ; Times: 6
+	Query: "Rhogeessa tumida haslength:1" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Myotis grisescens haslength:1" ; Times: 2
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "specificepithet:demersus genus:Spheniscus" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 8
+	Query: "Nyctinomops laticaudatus haslength:1" ; Times: 2
+	Query: "Goura victoria" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 4
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;wisconsin&#34; year &gt;= 1950 year &lt;= 1990" ; Times: 2
+	Query: "Colibri cyanotus" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Pteronotus mesoamericanus haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Spatula clypeata" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Zenaida galapagoensis" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 9
+	Query: "Buteogallus urubitinga" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "vntype:specimen specificepithet:macrorhynchus genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:corvus" ; Times: 1
+	Query: "Callaeas cinereus" ; Times: 2
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "Onychoprion anaethetus" ; Times: 2
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Myotis keaysi haslength:1" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 3
+	Query: "Leptoptilos dubius" ; Times: 4
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Crex crex" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "H.A. Ward" ; Times: 1
+	Query: "Amazona versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "MANTA birostris" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Leucosarcia melanoleuca" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Ramphastos swainsonii" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Ortalis guttata" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "genus:Ammospermophilus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:SUI" ; Times: 2
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "specificepithet:auropalliata genus:Amazona" ; Times: 3
+	Query: "Glossophaga soricina haslength:1" ; Times: 2
+	Query: "Galictis vittata" ; Times: 2
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:SUI" ; Times: 2
+	Query: "Crocidura vntype:specimen year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 1
+	Query: "locality:chatham Islands country:&#34;new zealand&#34;" ; Times: 1
+	Query: "Zenaida macroura nebraska" ; Times: 1
+	Query: "Eumops glaucinus haslength:1" ; Times: 2
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cozumelae genus:Mimon year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "daption capense nz" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Diphylla ecaudata haslength:1" ; Times: 2
+	Query: "Pteronotus parnellii haslength:1" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Vireo bellii" ; Times: 6
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Gracula" ; Times: 1
+	Query: "Micronycteris megalotis haslength:1" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "Mimon cozumelae haslength:1" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Myotis sodalis haslength:1" ; Times: 2
+	Query: "H.A. Ward class:aves (ward)" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 4
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "daption capense new zealand" ; Times: 3
+	Query: "28575" ; Times: 3
+	Query: "Felis lynx" ; Times: 11
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "Fregata aquila" ; Times: 9
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Ibycter americanus" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 2
+	Query: "Eumops nanus haslength:1" ; Times: 2
+	Query: "H.A. Ward (ward)" ; Times: 5
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "Lonchura oryzivora" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 5
+	Query: "Bulweria bulwerii" ; Times: 1
+	Query: "Centurio senex haslength:1" ; Times: 2
+	Query: "Pteronotus mesoamericanus hasmass:1" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 12
+	Query: "Eubucco versicolor" ; Times: 1
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington NOT FarallonNOT Alaska NOT Texas" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (nanus) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Pteroglossus aracari" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Homo sapiens" ; Times: 1
+	Query: "amazona auropalliata" ; Times: 13
+	Query: "Mareca americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "prionodon linsang" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "Eumops bonariensis haslength:1" ; Times: 2
+	Query: "Icthyophaga ichthyaetus" ; Times: 3
+	Query: "genus:Morus " ; Times: 1
+	Query: "Hirundo frontalis" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington" ; Times: 1
+	Query: "Synallaxis brachyura" ; Times: 1
+	Query: "Vanellus cayanus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "Molossus sinaloae haslength:1" ; Times: 2
+	Query: "pelagodroma marina new zealand" ; Times: 3
+	Query: "Poecilotriccus sylvia" ; Times: 1
+	Query: "locality:chatham island country:&#34;new zealand&#34;" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "Morus serrator" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Promops centralis haslength:1" ; Times: 2
+	Query: "Mormoops megalophylla haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1034 download events in this period)
+Total number of records downloaded: 431
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 8
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-19 ; Times: 9
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 14
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "mimon cozumelae" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:virginianus subarcticus genus:Bubo" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Potos" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (NOT beckeri) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "vntype:specimen specificepithet:cozumelae genus:Mimon year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Gracula" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
