@@ -1,0 +1,144 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 25
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-19 ; Times: 4
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 4
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "155405" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "Ratufa indica" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "nicobar pigeon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "28549" ; Times: 1
+	Query: "amazona xantholora" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Ivory Billed Woodpecker" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "vntype:specimen locality:mayport county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Sus scrofa domesticus" ; Times: 1
+	Query: "dicerorhinus sumatrensis" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "carolina parakeet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rattus continent:europe year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amazona xantholora vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "specificepithet:yagouaroundi genus:Puma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:xantholora genus:amazona" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "genus:Vulpes stateprovince:&#34;IDAHO&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 596 download events in this period)
+Total number of records downloaded: 246
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
