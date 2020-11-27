@@ -1,0 +1,342 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 482
+Number of records retrieved in searches: 2243
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 42
+	Country: Romania ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 7
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 400
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 149
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 151
+	Date: 2020-04-26 ; Times: 7
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 59
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 6
+	Date: 2020-04-08 ; Times: 11
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 6
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 13
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 40
+	Date: 2020-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tragopan satyra" ; Times: 2
+	Query: "Ovis aries" ; Times: 10
+	Query: "Bubo bubo india" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "vntype:specimen class:Actinopterygii institutioncode:SUI basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cervus axis" ; Times: 3
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Cygnus olor" ; Times: 10
+	Query: "elf" ; Times: 3
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "USNM 20020" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "Manis tricuspis" ; Times: 4
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "specificepithet:europaeus genus:Erinaceus haslength:1" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 3
+	Query: "Syrmaticus humiae" ; Times: 3
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Molossus sinaloae" ; Times: 4
+	Query: "F. domesticus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Northern Short-Tailed Shrew specificepithet:brevicauda genus:Blarina country:&#34;United States&#34; continent:North America sex:Female hassex:1 hasmass:1" ; Times: 2
+	Query: "swamp deer" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Bubo scandiacus sex:female" ; Times: 1
+	Query: "Dives dives" ; Times: 2
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "26823" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Great Crested Flycatcher Texas" ; Times: 1
+	Query: "Bubo coromandus india" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Anser rossi" ; Times: 5
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Ovis dalli" ; Times: 4
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Northern Short-Tailed Shrew specificepithet:brevicauda genus:Blarina country:&#34;United States&#34; continent:North America sex:Male hassex:1 hasmass:1" ; Times: 4
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Axis axis" ; Times: 2
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "Crax rubra" ; Times: 3
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "Buteo jamaicensis krideri" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "giant panda" ; Times: 1
+	Query: "Cercopithecus diana" ; Times: 4
+	Query: "Pluvialis apricaria" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Butorides striata" ; Times: 9
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Arborophila torqueola" ; Times: 1
+	Query: "jaguar skull" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Felis catus" ; Times: 4
+	Query: "Drepanornis" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Columba oenas" ; Times: 3
+	Query: "Sphenodon" ; Times: 1
+	Query: "Leptoptilos dubius" ; Times: 1
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "Oenanthe deserti India" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "Poecile montanus" ; Times: 4
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 8
+	Query: "warbling vireo eastern" ; Times: 1
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Ketupa zeylonensis india" ; Times: 1
+	Query: "23815 usnm" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Equus caballus" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "USNM 23756" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Pitta brachyura india" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Cephalophus natalensis" ; Times: 4
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "specificepithet:vittata genus:Galictis" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "USNM 35449" ; Times: 1
+	Query: "Tragopan blythii" ; Times: 2
+	Query: "Pheucticus ludovicianus melanocephalus" ; Times: 1
+	Query: "Panthera Onca Skull" ; Times: 2
+	Query: "lasiurus ega" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "cheetah" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "grey owl" ; Times: 6
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Canis adustus" ; Times: 5
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "Papio anubis" ; Times: 4
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Callithrix jacchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1171 download events in this period)
+Total number of records downloaded: 919
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 94
+	Country: Austria ; Times: 3
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-22 ; Times: 9
+	Date: 2020-04-23 ; Times: 9
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-28 ; Times: 13
+	Date: 2020-04-29 ; Times: 18
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 7
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "specificepithet:europaeus genus:Erinaceus haslength:1" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Cameroon&#34; OR &#34;Cameroun&#34; OR &#34;Kamerun&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "Rallus limicola" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea haslength:1" ; Times: 1
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "vntype:specimen specificepithet:hudsonius genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "specificepithet:redmani genus:Monophyllus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Gallinago media" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
