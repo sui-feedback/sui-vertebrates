@@ -1,0 +1,321 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 2761
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 217
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 4
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 10
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 22
+	Date: 2019-10-01 ; Times: 7
+	Date: 2019-10-29 ; Times: 6
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-05 ; Times: 15
+	Date: 2019-10-04 ; Times: 63
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 8
+	Date: 2019-10-23 ; Times: 12
+	Date: 2019-10-22 ; Times: 42
+	Date: 2019-10-18 ; Times: 12
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-31 ; Times: 5
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Microtus ochrogaster 2002" ; Times: 1
+	Query: "Dipodomys ordii 1974" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "Onychomys leucogaster 1990" ; Times: 1
+	Query: "Thomomys talpoides 2016" ; Times: 1
+	Query: "common quail" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Myotis sodalis 1980" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Rattus norvegicus 2009" ; Times: 1
+	Query: "phaenopepla" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 2
+	Query: "pitiayumi inornata vntype:specimen" ; Times: 2
+	Query: "genus:sciurus carolinensis family:sciuridae continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Reithrodontomys megalotis 1974" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Geomys bursarius 1974" ; Times: 1
+	Query: "Onychomys leucogaster 1980" ; Times: 1
+	Query: "Reithrodontomys megalotis 1973" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "USNM trogon massena" ; Times: 3
+	Query: "Reithrodontomys megalotis 1978" ; Times: 1
+	Query: "Reithrodontomys megalotis 1979" ; Times: 1
+	Query: "Geomys bursarius 1978" ; Times: 1
+	Query: "Geomys bursarius 1979" ; Times: 1
+	Query: "Sterna maxima AND Island AND California" ; Times: 1
+	Query: "Black-footed Ferret" ; Times: 3
+	Query: "Microtus ochrogaster 1998" ; Times: 1
+	Query: "Sawfish" ; Times: 2
+	Query: "Calidris canutus rufa 2017" ; Times: 1
+	Query: "Calidris canutus rufa 2016" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Microtus ochrogaster 1990" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 4
+	Query: "Sterna maxima AND Island AND California NOT Carolina NOT Texas NOT FLorida" ; Times: 1
+	Query: "Prionodon linsang preparations:skeleton" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Poecile carolinensis indiana" ; Times: 1
+	Query: "jaguar panthera" ; Times: 1
+	Query: "Lynx canadensis 2017" ; Times: 2
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 8
+	Query: "Crocodylus acutus 2017" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "Microtus ochrogaster 1983" ; Times: 1
+	Query: "Microtus ochrogaster 1981" ; Times: 1
+	Query: "Zapus hudsonius preblei 2017" ; Times: 1
+	Query: "Microtus ochrogaster 1984" ; Times: 1
+	Query: "Microtus ochrogaster 1985" ; Times: 1
+	Query: "eumops nanus" ; Times: 1
+	Query: "Zapus hudsonius preblei 2016" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Microtus ochrogaster 1991" ; Times: 1
+	Query: "cataptrophorus semipalmatus" ; Times: 1
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "sawfish" ; Times: 1
+	Query: "Coccyzus americanus 1989" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SUI" ; Times: 1
+	Query: "Onychomys leucogaster 1978" ; Times: 1
+	Query: "Onychomys leucogaster 1979" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "Reithrodontomys megalotis 1990" ; Times: 1
+	Query: "Reithrodontomys megalotis 1991" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Geomys bursarius 2008" ; Times: 1
+	Query: "lutra preparations:skeleton" ; Times: 1
+	Query: "Junco vulcani" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Geomys bursarius 2007" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Microtus ochrogaster 1979" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:SUI" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 3
+	Query: "Onychomys leucogaster 2017" ; Times: 2
+	Query: "Zapus princeps 2017" ; Times: 1
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 15
+	Query: "Sterna maxima AND Island AND California NOT Texas NOT FLorida" ; Times: 1
+	Query: "Reithrodontomys megalotis 1985" ; Times: 1
+	Query: "Reithrodontomys megalotis 1984" ; Times: 1
+	Query: "Reithrodontomys megalotis 1981" ; Times: 1
+	Query: "wolf stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "kiwi" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "mustela nigripes" ; Times: 2
+	Query: "sui lontra" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 2
+	Query: "Geomys bursarius 2017" ; Times: 2
+	Query: "Dipodomys ordii 2016" ; Times: 1
+	Query: "pygmy rabbit" ; Times: 1
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "Bond AND Podiceps" ; Times: 1
+	Query: "Neotoma mexicana 2016" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 2
+	Query: "Nicobar pigeon" ; Times: 2
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 1
+	Query: "Myotis sodalis 2017" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "plains pocket mouse" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 1
+	Query: "Chaetodipus hispidus 2016" ; Times: 1
+	Query: "Chaetodipus hispidus 2017" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "genus:Procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Chaetodipus hispidus 1974" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Alces americanus preparations:skeleton" ; Times: 1
+	Query: "Thomomys talpoides 2017" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "USNM Trogon massena" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 8
+	Query: "Microtus longicaudus 2016" ; Times: 2
+	Query: "hawaiian monk seal" ; Times: 1
+	Query: "Myotis septentrionalis 1978" ; Times: 1
+	Query: "Microtus ochrogaster 2017" ; Times: 2
+	Query: "Microtus ochrogaster 2016" ; Times: 2
+	Query: "Myotis sodalis 1974" ; Times: 1
+	Query: "Neotoma cinerea 2017" ; Times: 3
+	Query: "specificepithet:murina genus:Marmosa" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "Myotis septentrionalis 1974" ; Times: 1
+	Query: "Myotis septentrionalis 1977" ; Times: 1
+	Query: "Microtus ochrogaster 1973" ; Times: 1
+	Query: "Microtus ochrogaster 1972" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "Microtus ochrogaster 1975" ; Times: 1
+	Query: "Microtus ochrogaster 1974" ; Times: 1
+	Query: "fernbird" ; Times: 1
+	Query: "Microtus ochrogaster 1978" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Mycteria americana 2017" ; Times: 1
+	Query: "Onychomys leucogaster 1982" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1850 year &lt;= 1900" ; Times: 2
+	Query: "Geomys bursarius 1975" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "Microtus montanus 2017" ; Times: 2
+	Query: "Geomys bursarius 1981" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 1308 download events in this period)
+Total number of records downloaded: 2412
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 46
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-04 ; Times: 7
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 19
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 10
+	Date: 2019-10-30 ; Times: 5
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Onychomys stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "Alces americanus preparations:skeleton" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "puma concolor" ; Times: 10
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "stercorariidae" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "eumops nanus" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Black-footed Ferret" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+
+
+End of report.
