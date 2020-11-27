@@ -1,0 +1,213 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 1949
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 70
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-26 ; Times: 8
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 16
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 8
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-25 ; Times: 5
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "fulmarus arctic" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34; institutioncode:SUI" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "great Auk" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:SUI" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; recordedby:Mearns year &lt;= 1940" ; Times: 2
+	Query: "Myotis pilosatibialis Yucatan" ; Times: 2
+	Query: "27725" ; Times: 1
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "himalayan monal" ; Times: 1
+	Query: "fulmarus glacialis arctic" ; Times: 1
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Crested porcupine Hystrix cristata" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Iowa&#34; continent:North America hasmass:1 haslength:1" ; Times: 3
+	Query: "loggerhead sea turtle" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; recordedby:Mearns" ; Times: 2
+	Query: "monachus schauinslandi" ; Times: 1
+	Query: "cheetah" ; Times: 2
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:SUI" ; Times: 1
+	Query: "Myotis keaysi pilosatibialis" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; recordedby:Mearns year &gt;= 1910" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:SUI" ; Times: 1
+	Query: "black rosy-finch" ; Times: 1
+	Query: "&#34;Myotis septentrionalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "american egret" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 1
+	Query: "flathead catfish" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:SUI" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Goldfinch institutioncode:SUI" ; Times: 11
+	Query: "daption new zealand" ; Times: 3
+	Query: "atlantic puffin" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "pelidna" ; Times: 1
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "Greater Sage Grouse" ; Times: 2
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 8
+	Query: "Erythrocebus" ; Times: 1
+	Query: "aardvark" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 1023 download events in this period)
+Total number of records downloaded: 1787
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 60
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 10
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sorex cinereus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Iowa&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen order:Primates family:Lorisidae" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Grus canadensis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "&#34;Myotis septentrionalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "drummondii specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Varanus salvator" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
