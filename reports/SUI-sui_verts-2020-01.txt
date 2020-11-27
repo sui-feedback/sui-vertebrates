@@ -1,0 +1,235 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1735
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 92
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 11
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 10
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 8
+	Date: 2020-01-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "Ocelot usnm" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "heath hen vntype:specimen" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "order:chiroptera institutioncode:SUI hasmass:1 haslength:1" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Cheetah" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Iowa&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bendire basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:SUI basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "accipter" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 8
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:SUI" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 10
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "cheetah" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "dumatella" ; Times: 1
+	Query: "eskimo curlew" ; Times: 7
+	Query: "numenius borealis" ; Times: 1
+	Query: "Setophaga tigrina institutioncode:SUI" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Orange&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "order:chiroptera institutioncode:SUI" ; Times: 2
+	Query: "chiroptera stateprovince:&#34;Iowa&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "sui numenius" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "grus americana minnesota" ; Times: 1
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "potos flavus usnm" ; Times: 1
+	Query: "dumatella carolinensis" ; Times: 1
+	Query: "institutioncode:SUI" ; Times: 1
+	Query: "sui numenius borealis" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "koklass" ; Times: 1
+	Query: "hybrid vntype:specimen genus:Pipilo" ; Times: 1
+	Query: "Conuropsis carolinensis iowa" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "hybrid vntype:specimen genus:Pipilo stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Heath Hen" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1584 download events in this period)
+Total number of records downloaded: 968
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 3
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-17 ; Times: 9
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 10
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-16 ; Times: 6
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 7
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "genus:Liomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nycticeius humeralis vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "order:chiroptera institutioncode:SUI hasmass:1 haslength:1" ; Times: 1
+	Query: "centurio senex basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "specificepithet:longipilis genus:Abrothrix" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "order:chiroptera stateprovince:&#34;Iowa&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+
+
+End of report.
