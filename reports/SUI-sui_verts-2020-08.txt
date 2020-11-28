@@ -1,0 +1,219 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1486
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 53
+	Country: Netherlands ; Times: 6
+	Country: Italy ; Times: 1
+	Country: United Kingdom ; Times: 47
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 3
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-12 ; Times: 10
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-30 ; Times: 4
+	Date: 2020-08-19 ; Times: 12
+	Date: 2020-08-21 ; Times: 48
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ulula genus:Surnia class:AVES country:&#34;United States&#34; institutioncode:SUI" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e amphispiza" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "class:Reptilia institutioncode:SUI" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e lanius" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 3
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "institutioncode:SUI" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Dumetella carolinensis hasmass:1" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 3
+	Query: "Callaeas cinereus" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e nevada aves" ; Times: 2
+	Query: "specificepithet:ulula genus:Surnia class:AVES institutioncode:SUI" ; Times: 2
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Gliciphila melanops" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e toxostoma" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 9
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "Hylobates moloch" ; Times: 1
+	Query: "pacific swallow" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Poecile montanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Iowa&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Sorex cinerus" ; Times: 5
+	Query: "institutioncode:SUI basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "constrictor stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "class:mammalia catalognumber:30627" ; Times: 2
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e athene" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "kiwi" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "liomys irroratus texensis county:&#34;cameron&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Macaca nigra" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34; preparations:bone" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "toxostoma institutioncode:SUI" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 3
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "specificepithet:ellioti genus:Atthis" ; Times: 1
+	Query: "Poecile palustris" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Iowa&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:Goura" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Canis adustus" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "genus:Erythrocebus year &gt;= 1861" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 2
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Erythrocebus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 756 download events in this period)
+Total number of records downloaded: 654
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 46
+	Country: Netherlands ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 7
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-21 ; Times: 5
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 9
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "snapping turtle" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "liomys irroratus texensis county:&#34;cameron&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
