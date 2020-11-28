@@ -1,0 +1,219 @@
+Report for Institution Code SUI, Resource sui_verts
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 788
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 78
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: Czechia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 9
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 7
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-29 ; Times: 34
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 8
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Red-billed Pigeon" ; Times: 1
+	Query: "Mangrove Cuckoo" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "genus:Ammospiza stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:GRISESCENS genus:MYOTIS hasmass:1" ; Times: 3
+	Query: "&#34;Ototylomys phyllotis&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length hasmass:1" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sciurus carolinensis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Pinicola class:Aves year &gt;= 1896 year &lt;= 1896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Psittacula calthrapae" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; continent:North America sex:Female lengthtype:total length haslength:1" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Tadarida laticaudatus" ; Times: 1
+	Query: "institutioncode:sui" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "genus:toxostoma institutioncode:SUI" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius institutioncode:SUI" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:sturnus year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Ailuropoda melanoleuca" ; Times: 32
+	Query: "pitta brachyura" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "genus:phainopepla institutioncode:SUI" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "genus:Pinicola class:Aves year &lt;= 1887 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "reithrodontomys montanus nebraska" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:SODALIS genus:MYOTIS hasmass:1" ; Times: 1
+	Query: "specificepithet:leucoryx genus:Oryx" ; Times: 2
+	Query: "scientificname:Liomys texensis" ; Times: 1
+	Query: "gbifdatasetid:04169fce-7d4f-41f7-9dff-245960f5b59e" ; Times: 4
+	Query: "genus:Peromyscus leucopus continent:North America year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis hasmass:1" ; Times: 2
+	Query: "specificepithet:lervia genus:Ammotragus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 976 download events in this period)
+Total number of records downloaded: 1647
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 58
+	Country: Chile ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 9
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-02 ; Times: 5
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 7
+	Date: 2020-09-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias sex:Female hasmass:1" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:GRISESCENS genus:MYOTIS hasmass:1" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "genus:Passerina" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamias striatus haslength:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 2
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "specificepithet:SODALIS genus:MYOTIS hasmass:1" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
